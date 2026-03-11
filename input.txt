@@ -1,0 +1,5 @@
+3
+Pupkin Vasiliy Ivanovich MinskCity 220022 Belarus Minsk 01 Bel 30 02 2030 1 1 Highest 2020
+Ivanov Ivan Viktorovich MoskvaCity 101010 Russia Moskva 02 Rus 01 13 2020 2 2 Good 2030
+Fomov Yuriy Abramovich CityCity 211221 Country City 999 Supreme 1 1 1000 1 2 Educated 2020
+
