@@ -4,6 +4,6 @@
 #include "../include/write.h"
 int main(){
 	printf("--START--\n");
-	readFile("..\\input.txt");
-	writeFile("..\\output.txt");
+	readFile("input.txt");
+	writeFile("output.txt");
 }
